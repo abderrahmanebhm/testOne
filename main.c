@@ -10,7 +10,7 @@ int age = 18;
   }
   else
   {
-    printf("Warning\n");
+    printf("Warningg\n");
   }
 
   return 0;
